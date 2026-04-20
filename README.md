@@ -13,7 +13,7 @@
 ### 👩‍💻 About Me
 
 - 🎓 I'm a 2nd-year **BTech Computer Science** student (CSE Core).
-- 🎯 Currently diving deep into **DSA** and conquering the **LeetCode Blind 75** to prepare for software engineering roles at top tech companies.
+- 🎯 Currently diving deep into **DSA** to prepare for software engineering roles at top tech companies.
 - 💻 I have a strong passion for full-stack web development, creating responsive applications with an eye for modern UI/UX design.
 - 🤝 I actively engage in tech communities, organizing hackathons, and curating resources like the "Infinity Coders" bulletins.
 - 🇮🇳 Beyond code, I proudly serve as a volunteer for the **National Service Scheme (NSS)**.
