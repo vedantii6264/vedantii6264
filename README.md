@@ -35,7 +35,6 @@ My journey currently sits at the intersection of **Software Development, Data St
 * ⚙️ Learning **CI/CD, Docker, GitHub Actions & Infrastructure as Code**
 * 🐧 Building stronger foundations in **Linux & Networking**
 * 🤝 Active in **technology communities & student initiatives**
-* 🇮🇳 **NSS Volunteer**
 * 🎤 Interested in **technical communication, leadership & community building**
 
 ---
@@ -92,7 +91,6 @@ I'm equally interested in **people, communities, communication and creating oppo
 ### 🤝 Community & Leadership
 
 * 🎓 **Microsoft Student Ambassador**
-* 🇮🇳 **NSS Volunteer**
 * 💡 Technology community involvement
 * 🎤 Technical communication & public speaking
 * 🚀 Student events & hackathons
