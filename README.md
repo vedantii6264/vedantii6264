@@ -103,16 +103,26 @@ I'm equally interested in **people, communities, communication and creating oppo
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/vedantii6264/vedantii6264/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/vedantii6264/vedantii6264/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/vedantii6264/vedantii6264/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/vedantii6264/vedantii6264/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
+</picture>
 
 <br><br>
 
 <i>Turning every contribution into a step forward. 🚀</i>
 
 </div>
-
-
----
 
 ## 🧭 My Learning Philosophy
 
