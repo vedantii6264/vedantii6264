@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:6C63FF&height=260&section=header&text=Build.%20Learn.%20Evolve.&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Undergraduate%20%7C%20Software%20%26%20Cloud%20Enthusiast&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:6C63FF&height=250&section=header&text=Build.%20Learn.%20Evolve.&fontSize=48&fontColor=ffffff&fontAlignY=40" />
 
 </div>
 
@@ -68,45 +68,6 @@ My journey currently sits at the intersection of **Software Development, Data St
 
 ---
 
-## 🛠️ My Tech Universe
-
-### 💻 Languages
-
-<p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-</p>
-
-### 🌐 Development
-
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-</p>
-
-### ☁️ Cloud & DevOps
-
-<p>
-<img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
-</p>
-
-### 🔧 Tools
-
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-</p>
-
----
-
 ## 📚 Currently Exploring
 
 <div align="center">
@@ -138,16 +99,18 @@ I'm equally interested in **people, communities, communication and creating oppo
 * 🌐 Peer learning & community building
 
 ---
-
-## 📊 GitHub Activity
+## 🐍 GitHub Journey
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vedantii6264&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=C9D1D9&icon_color=58A6FF&title_color=58A6FF" height="180"/>
+<img src="https://raw.githubusercontent.com/vedantii6264/vedantii6264/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vedantii6264&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9" height="180"/>
+<br><br>
+
+<i>Turning every contribution into a step forward. 🚀</i>
 
 </div>
+
 
 ---
 
@@ -168,8 +131,6 @@ Every repository, problem, and new concept is another step forward.
 ## 🌐 Let's Connect
 
 <p align="center">
-  <i>Have an idea, want to collaborate, or simply want to talk tech?</i>
-  <br/>
   <b>Let's connect and build something meaningful. 🚀</b>
 </p>
 
